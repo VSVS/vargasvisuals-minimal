@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-minimal-blog",
-  "description": "Typography driven blog, focus on the content & minimal style. Powered by MDX. Live Preview with react-live.",
+  "name": "vargasvisuals-gatsby",
+  "description": "Minimal design blog by Robert Vargas",
   "version": "3.0.0",
-  "author": "LekoArts <hello@lekoarts.de> (https://www.lekoarts.de)",
+  "author": "VSVS <vargasrobert28@gmail.com> (http://vargasvisuals.com)",
   "dependencies": {
     "@mdx-js/mdx": "^1.0.20",
     "@mdx-js/react": "^1.0.20",
@@ -39,7 +39,8 @@
   "keywords": [
     "gatsby",
     "gatsby-starter",
-    "lekoarts"
+    "VargasVisuals",
+    "Web Design"
   ],
   "license": "MIT",
   "main": "n/a",
